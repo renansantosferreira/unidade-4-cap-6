@@ -61,7 +61,7 @@ O display OLED exibe informações sobre:
 - Expansão do sistema para permitir entradas mais complexas.
 - Integração com comunicação Wi-Fi para controle remoto.
 
-[Clique aqui ⬆️ e assista o vídeo](https://youtu.be/xxxxx)
+[Clique aqui ⬆️ e assista o vídeo](https://youtu.be/rgaA_7l4PSY)
 
 ## Autor
 Desenvolvido por [Renan Ferreira].
